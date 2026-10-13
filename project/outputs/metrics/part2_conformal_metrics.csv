@@ -1,0 +1,2 @@
+model,alpha,target_coverage,q_hat,coverage,average_set_size,singleton_rate,empty_set_rate
+naive_bayes_no_odds,0.1,0.9,0.9038420884497305,0.891674127126231,2.270367054610564,0.2730528200537153,0.0

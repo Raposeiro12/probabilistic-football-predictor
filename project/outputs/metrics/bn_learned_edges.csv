@@ -1,0 +1,7 @@
+parent,child
+at_form,joint_attack
+joint_attack,ht_form
+h2h_dominance,odds_favorite
+h2h_dominance,result
+odds_favorite,at_form
+odds_favorite,result
